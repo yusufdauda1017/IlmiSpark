@@ -1,0 +1,8 @@
+{
+  "name": "ilmispark-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "IlmiSpark classroom demonstration with local browser storage",
+  "scripts": {"start": "node server.cjs", "dev": "node server.cjs"},
+  "engines": {"node": ">=18"}
+}
